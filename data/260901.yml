@@ -1,0 +1,62 @@
+about:
+  description: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+  license: EUPL-1.2
+  homepage: https://www.getzola.org
+  head: 61d3082
+  archived: false
+  latestVersion: v0.23.4
+  collectedAt: 2026-09-01T05:56:58Z
+timeline:
+  created: 2016-12-06
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-20
+popularity:
+  star: 17388
+  watcher: 94
+  fork: 1178
+  release: 58
+  contributor: 492
+  pullRequest: 404
+  issue: 1752
+language:
+  Rust: 860998
+  HTML: 13686
+  Python: 5109
+  Dockerfile: 1480
+  SCSS: 155
+  CSS: 35
+  JavaScript: 17
+totalLine: 881480
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 5
+    mergedPR: 19
+    openPR: 3
+    closedIssue: 21
+    openIssue: 7
+    commit: 54
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 40
+    openPR: 3
+    closedIssue: 26
+    openIssue: 12
+    commit: 114
+  last180d:
+    since: 2026-03-05
+    release: 5
+    mergedPR: 57
+    openPR: 4
+    closedIssue: 44
+    openIssue: 16
+    commit: 133
+  last360d:
+    since: 2025-09-06
+    release: 7
+    mergedPR: 101
+    openPR: 8
+    closedIssue: 92
+    openIssue: 30
+    commit: 221
