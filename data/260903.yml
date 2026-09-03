@@ -1,19 +1,21 @@
 about:
-  description: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+  description:
+  |
+    A fast static site generator in a single binary with everything built-in. https://www.getzola.org
   license: EUPL-1.2
   homepage: https://www.getzola.org
   head: 61d3082
   archived: false
   latestVersion: v0.23.4
-  collectedAt: 2026-09-03T05:24:16Z
+  collectedAt: 2026-09-03T22:35:33Z
 timeline:
   created: 2016-12-06
   lastCommit: 2026-08-31
   lastRelease: 2026-08-20
 popularity:
-  star: 17391
+  star: 17392
   watcher: 95
-  fork: 1178
+  fork: 1179
   release: 58
   contributor: 492
   pullRequest: 405
@@ -26,7 +28,7 @@ language:
   SCSS: 155
   CSS: 35
   JavaScript: 17
-totalLine: 881480
+totalBytes: 881480
 recent:
   last30d:
     since: 2026-08-04
