@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.23.4"
   latestRelease: "v0.23.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:50:18Z
+  collectedAt: 2026-09-10T16:26:47Z
 timeline:
   created: 2016-12-06
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-20
   lastPrerelease: 
 popularity:
-  star: 17411
+  star: 17412
   watcher: 97
   fork: 1182
   release: 58
@@ -89,7 +89,7 @@ total:
   commit: 2593
 ---
 path: /home/runner/.x-repo/github.com/getzola/zola
-collectedAt: 2026-09-10T04:50:26Z
+collectedAt: 2026-09-10T16:26:55Z
 loc:
   Rust:
     code: 20194
