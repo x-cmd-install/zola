@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 26341,
       "digest": "sha256:32b356bffda1e3567f677263a0c219c7dea90501345710c6a9ff932a76969cce",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:43Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.BO83LV.dockerbuild"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 65560,
       "digest": "sha256:a5118a4ad15bb6c64d675d9dcc938fe9ec64d5e35d0779d6551aa18dafe124e2",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:43Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.QTS9Z1.dockerbuild"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 65090,
       "digest": "sha256:5551214d7e5a5d53912a77d5a5076009147cafd84d447a46792900a5d5b28769",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:43Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.YBK6MF.dockerbuild"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13457218,
       "digest": "sha256:303b8e1f3251a6250e47f811eda143316f653c22201faa66777d48ac499c0ee3",
-      "download_count": 1254,
+      "download_count": 1272,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:44Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13948007,
       "digest": "sha256:21bb37a4f3bbac663cf8f04df9b51ac6bc154acfe2cf2c3e9ea162b4951487b6",
-      "download_count": 1152,
+      "download_count": 1159,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:44Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14371117,
       "digest": "sha256:e79edcba2e8d03d22065c9cb8fa2e3abf07b823ef17f00abdc060188dceabba7",
-      "download_count": 665,
+      "download_count": 669,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:44Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-apple-darwin.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15314311,
       "digest": "sha256:dc839498e27b631f60fd5e1527935198b7f002eb09b8446a1e2913a8fa386925",
-      "download_count": 3451,
+      "download_count": 3461,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:44Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 14750973,
       "digest": "sha256:54d1a347781b2f32330914fcc02def81c7e3ddb6111b36d1cc89c06557aed1de",
-      "download_count": 6901,
+      "download_count": 6968,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:44Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14606521,
       "digest": "sha256:d99c51302ebbf909a0d83d4319d4d745b56a93dc49c4a69878c0f0dcaa4c8531",
-      "download_count": 6255,
+      "download_count": 6396,
       "created_at": "2026-08-20T16:35:42Z",
       "updated_at": "2026-08-20T16:35:44Z",
       "browser_download_url": "https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-unknown-linux-musl.tar.gz"
