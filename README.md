@@ -23,11 +23,25 @@ x install zola
 - **Latest**: `v0.23.4` (2026-08-20)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 10
-- **Published**: 2026-08-20T16:35:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [getzola.zola.BO83LV.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.BO83LV.dockerbuild) | 25.7 KiB | `other` |
+| [getzola.zola.NB33OH.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.NB33OH.dockerbuild) | 26.0 KiB | `other` |
+| [getzola.zola.QTS9Z1.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.QTS9Z1.dockerbuild) | 64.0 KiB | `other` |
+| [getzola.zola.YBK6MF.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.YBK6MF.dockerbuild) | 63.6 KiB | `other` |
+| [zola-v0.23.4-aarch64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-aarch64-apple-darwin.tar.gz) | 12.8 MiB | `native/darwin/arm64` |
+| [zola-v0.23.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-aarch64-unknown-linux-gnu.tar.gz) | 13.3 MiB | `native/linux/arm64/glibc` |
+| [zola-v0.23.4-x86_64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-apple-darwin.tar.gz) | 13.7 MiB | `native/darwin/x64` |
+| [zola-v0.23.4-x86_64-pc-windows-msvc.zip](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-pc-windows-msvc.zip) | 14.6 MiB | `native/win/x64` |
+| [zola-v0.23.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-unknown-linux-gnu.tar.gz) | 14.1 MiB | `native/linux/x64/glibc` |
+| [zola-v0.23.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-unknown-linux-musl.tar.gz) | 13.9 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 17,411 · **Forks**: 1,182 · **Open issues**: 1,756 · **Contributors**: 492
+- **Stars**: 17,412 · **Forks**: 1,182 · **Open issues**: 1,756 · **Contributors**: 492
 
 ## Totals (cumulative)
 
@@ -68,8 +82,8 @@ Lowest-scoring checks:
 Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zola` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/zola.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/zola.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:50:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:10Z._

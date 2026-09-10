@@ -4,7 +4,7 @@
 
 A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
-![zola](https://repo.x-cmd.io/zola.svg)
+![zola](https://repo.x-cmd.io/zola.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,25 @@ x install zola
 - **最新版本**: `v0.23.4` (2026-08-20)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-20T16:35:44Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [getzola.zola.BO83LV.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.BO83LV.dockerbuild) | 25.7 KiB | `other` |
+| [getzola.zola.NB33OH.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.NB33OH.dockerbuild) | 26.0 KiB | `other` |
+| [getzola.zola.QTS9Z1.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.QTS9Z1.dockerbuild) | 64.0 KiB | `other` |
+| [getzola.zola.YBK6MF.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.4/getzola.zola.YBK6MF.dockerbuild) | 63.6 KiB | `other` |
+| [zola-v0.23.4-aarch64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-aarch64-apple-darwin.tar.gz) | 12.8 MiB | `native/darwin/arm64` |
+| [zola-v0.23.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-aarch64-unknown-linux-gnu.tar.gz) | 13.3 MiB | `native/linux/arm64/glibc` |
+| [zola-v0.23.4-x86_64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-apple-darwin.tar.gz) | 13.7 MiB | `native/darwin/x64` |
+| [zola-v0.23.4-x86_64-pc-windows-msvc.zip](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-pc-windows-msvc.zip) | 14.6 MiB | `native/win/x64` |
+| [zola-v0.23.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-unknown-linux-gnu.tar.gz) | 14.1 MiB | `native/linux/x64/glibc` |
+| [zola-v0.23.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.4/zola-v0.23.4-x86_64-unknown-linux-musl.tar.gz) | 13.9 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
-- **Star**: 17,411 · **Fork**: 1,182 · **开放 issue**: 1,756 · **贡献者**: 492
+- **Star**: 17,412 · **Fork**: 1,182 · **开放 issue**: 1,756 · **贡献者**: 492
 
 ## 累计统计
 
@@ -72,4 +86,4 @@ zola 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:11Z._
