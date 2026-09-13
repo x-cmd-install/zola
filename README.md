@@ -14,13 +14,13 @@ x install zola
 
 ## Code insight
 
-Total: **22,878** lines of code across **194** files in the top 5 languages.
+Total: **22,881** lines of code across **194** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 20,326 | 882 | 2,571 | 102 |
 | Sass | 647 | 178 | 178 | 17 |
-| Html | 628 | 1 | 67 | 48 |
+| Html | 631 | 1 | 68 | 48 |
 | Toml | 448 | 16 | 80 | 21 |
 | Xml | 217 | 0 | 4 | 6 |
 
@@ -42,52 +42,50 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.23.5` (2026-09-11)
-- **Last commit**: 2026-09-11
-- **Assets in release**: 10
+- **Latest**: `v0.23.6` (2026-09-12)
+- **Last commit**: 2026-09-12
+- **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 17,421 · **Forks**: 1,182 · **Open issues**: 1,757 · **Contributors**: 492
+- **Stars**: 17,429 · **Forks**: 1,182 · **Open issues**: 1,759 · **Contributors**: 492
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 1080 · **Open PRs**: 11 · **Closed issues**: 1579 · **Open issues**: 178 · **Commits**: 2608
+- **Releases**: 60 · **Merged PRs**: 1080 · **Open PRs**: 12 · **Closed issues**: 1579 · **Open issues**: 180 · **Commits**: 2610
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 7 | 2 | 11 | 3 | 32 |
-| last60d | 2026-07-14 | 6 | 31 | 3 | 28 | 8 | 109 |
-| 90d | 2026-06-14 | 6 | 42 | 3 | 30 | 12 | 127 |
-| last180d | 2026-03-16 | 6 | 58 | 4 | 46 | 16 | 146 |
-| 360d | 2025-09-17 | 8 | 103 | 8 | 96 | 29 | 235 |
-| last720d | 2024-09-22 | 10 | 208 | 11 | 196 | 60 | 376 |
+| 30d | 2026-08-14 | 3 | 7 | 3 | 11 | 5 | 17 |
+| last60d | 2026-07-15 | 7 | 31 | 4 | 28 | 10 | 101 |
+| 90d | 2026-06-15 | 7 | 42 | 4 | 30 | 14 | 126 |
+| last180d | 2026-03-17 | 7 | 58 | 5 | 46 | 18 | 148 |
+| 360d | 2025-09-18 | 9 | 103 | 9 | 96 | 31 | 236 |
+| last720d | 2024-09-23 | 11 | 208 | 12 | 195 | 62 | 378 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [getzola.zola.66WX0P.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.5/getzola.zola.66WX0P.dockerbuild) | 63.8 KiB | `other` |
-| [getzola.zola.6B8AWI.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.5/getzola.zola.6B8AWI.dockerbuild) | 65.9 KiB | `other` |
-| [getzola.zola.6RVVC8.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.5/getzola.zola.6RVVC8.dockerbuild) | 25.6 KiB | `other` |
-| [getzola.zola.HATQPW.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.5/getzola.zola.HATQPW.dockerbuild) | 26.9 KiB | `other` |
-| [zola-v0.23.5-aarch64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.5/zola-v0.23.5-aarch64-apple-darwin.tar.gz) | 14.3 MiB | `native/darwin/arm64` |
-| [zola-v0.23.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.5/zola-v0.23.5-aarch64-unknown-linux-gnu.tar.gz) | 14.8 MiB | `native/linux/arm64/glibc` |
-| [zola-v0.23.5-x86_64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.5/zola-v0.23.5-x86_64-apple-darwin.tar.gz) | 15.3 MiB | `native/darwin/x64` |
-| [zola-v0.23.5-x86_64-pc-windows-msvc.zip](https://github.com/getzola/zola/releases/download/v0.23.5/zola-v0.23.5-x86_64-pc-windows-msvc.zip) | 16.3 MiB | `native/win/x64` |
-| [zola-v0.23.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.5/zola-v0.23.5-x86_64-unknown-linux-gnu.tar.gz) | 15.7 MiB | `native/linux/x64/glibc` |
-| [zola-v0.23.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.5/zola-v0.23.5-x86_64-unknown-linux-musl.tar.gz) | 15.5 MiB | `native/linux/x64/musl` |
+| [getzola.zola.J6X2M9.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.6/getzola.zola.J6X2M9.dockerbuild) | 64.9 KiB | `other` |
+| [getzola.zola.UI3VUC.dockerbuild](https://github.com/getzola/zola/releases/download/v0.23.6/getzola.zola.UI3VUC.dockerbuild) | 26.3 KiB | `other` |
+| [zola-v0.23.6-aarch64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-aarch64-apple-darwin.tar.gz) | 14.3 MiB | `native/darwin/arm64` |
+| [zola-v0.23.6-aarch64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-aarch64-unknown-linux-gnu.tar.gz) | 14.8 MiB | `native/linux/arm64/glibc` |
+| [zola-v0.23.6-x86_64-apple-darwin.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-apple-darwin.tar.gz) | 15.3 MiB | `native/darwin/x64` |
+| [zola-v0.23.6-x86_64-pc-windows-msvc.zip](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-pc-windows-msvc.zip) | 16.3 MiB | `native/win/x64` |
+| [zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz) | 15.7 MiB | `native/linux/x64/glibc` |
+| [zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz) | 15.6 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/zola). **4** are ✅ on the latest upstream release, **101** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/zola). **3** are ✅ on the latest upstream release, **102** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.23.5` | ✅ latest |
-| Homebrew | `0.23.5` | ✅ latest |
+| Arch | `0.23.5` | ⚠️ outdated |
+| Homebrew | `0.23.6` | ✅ latest |
 | Nix unstable | `0.23.4` | ⚠️ outdated |
 | Void | `0.23.3` | ⚠️ outdated |
 | Alpine edge | `0.23.4` | ⚠️ outdated |
@@ -102,4 +100,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:48:30Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:09:41Z._
