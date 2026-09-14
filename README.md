@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,429 · **Forks**: 1,182 · **Open issues**: 1,759 · **Contributors**: 492
+- **Stars**: 17,432 · **Forks**: 1,182 · **Open issues**: 1,760 · **Contributors**: 492
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1080 · **Open PRs**: 12 · **Closed issues**: 1579 · **Open issues**: 180 · **Commits**: 2610
+- **Releases**: 60 · **Merged PRs**: 1080 · **Open PRs**: 12 · **Closed issues**: 1579 · **Open issues**: 181 · **Commits**: 2610
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 7 | 3 | 11 | 5 | 17 |
-| last60d | 2026-07-15 | 7 | 31 | 4 | 28 | 10 | 101 |
-| 90d | 2026-06-15 | 7 | 42 | 4 | 30 | 14 | 126 |
-| last180d | 2026-03-17 | 7 | 58 | 5 | 46 | 18 | 148 |
-| 360d | 2025-09-18 | 9 | 103 | 9 | 96 | 31 | 236 |
-| last720d | 2024-09-23 | 11 | 208 | 12 | 195 | 62 | 378 |
+| 30d | 2026-08-15 | 3 | 7 | 3 | 11 | 6 | 17 |
+| last60d | 2026-07-16 | 7 | 30 | 4 | 28 | 11 | 101 |
+| 90d | 2026-06-16 | 7 | 42 | 4 | 30 | 15 | 126 |
+| last180d | 2026-03-18 | 7 | 57 | 5 | 45 | 19 | 148 |
+| 360d | 2025-09-19 | 9 | 102 | 9 | 96 | 32 | 236 |
+| last720d | 2024-09-24 | 11 | 208 | 12 | 195 | 63 | 378 |
 
 ## Release assets
 
@@ -78,19 +78,6 @@ Lowest-scoring checks:
 | [zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz) | 15.7 MiB | `native/linux/x64/glibc` |
 | [zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz) | 15.6 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **106** distros on [repology.org](https://repology.org/project/zola). **3** are ✅ on the latest upstream release, **102** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.23.5` | ⚠️ outdated |
-| Homebrew | `0.23.6` | ✅ latest |
-| Nix unstable | `0.23.4` | ⚠️ outdated |
-| Void | `0.23.3` | ⚠️ outdated |
-| Alpine edge | `0.23.4` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.23.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zola` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +87,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:09:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:15:02Z._
