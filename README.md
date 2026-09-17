@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,446 · **Forks**: 1,183 · **Open issues**: 1,760 · **Contributors**: 492
+- **Stars**: 17,449 · **Forks**: 1,183 · **Open issues**: 1,760 · **Contributors**: 492
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1081 · **Open PRs**: 14 · **Closed issues**: 1581 · **Open issues**: 179 · **Commits**: 2614
+- **Releases**: 60 · **Merged PRs**: 1082 · **Open PRs**: 13 · **Closed issues**: 1581 · **Open issues**: 179 · **Commits**: 2614
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 6 | 5 | 13 | 4 | 20 |
-| last60d | 2026-07-18 | 7 | 31 | 6 | 30 | 9 | 104 |
-| 90d | 2026-06-18 | 7 | 43 | 6 | 32 | 13 | 129 |
-| last180d | 2026-03-20 | 7 | 58 | 7 | 47 | 16 | 151 |
-| 360d | 2025-09-21 | 9 | 103 | 11 | 98 | 30 | 239 |
-| last720d | 2024-09-26 | 11 | 209 | 14 | 197 | 61 | 382 |
+| 30d | 2026-08-18 | 3 | 7 | 4 | 13 | 4 | 20 |
+| last60d | 2026-07-19 | 7 | 29 | 5 | 30 | 9 | 104 |
+| 90d | 2026-06-19 | 7 | 44 | 5 | 32 | 13 | 129 |
+| last180d | 2026-03-21 | 7 | 59 | 6 | 47 | 16 | 151 |
+| 360d | 2025-09-22 | 9 | 104 | 10 | 98 | 30 | 239 |
+| last720d | 2024-09-27 | 11 | 209 | 13 | 196 | 61 | 382 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:12:36Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:11:44Z._
