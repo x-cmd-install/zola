@@ -4,7 +4,7 @@
 
 A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
-![zola](https://repo.x-cmd.io/zola.svg?lang=zh)
+[![x-cmd/install — zola Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zola.svg?lang=zh)](https://x-cmd.com/install/zola)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install zola
 
 ## 流行度
 
-- **Star**: 17,455 · **Fork**: 1,183 · **开放 issue**: 1,760 · **贡献者**: 492
+- **Star**: 17,457 · **Fork**: 1,184 · **开放 issue**: 1,760 · **贡献者**: 492
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install zola
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 7 | 4 | 13 | 4 | 20 |
-| last60d | 2026-07-20 | 7 | 28 | 5 | 30 | 9 | 104 |
-| 90d | 2026-06-20 | 7 | 44 | 5 | 32 | 13 | 129 |
-| last180d | 2026-03-22 | 7 | 59 | 6 | 47 | 16 | 151 |
-| 360d | 2025-09-23 | 9 | 103 | 10 | 98 | 30 | 239 |
-| last720d | 2024-09-28 | 11 | 209 | 13 | 196 | 61 | 382 |
+| 30d | 2026-08-21 | 2 | 5 | 3 | 11 | 3 | 20 |
+| last60d | 2026-07-22 | 7 | 27 | 5 | 30 | 9 | 104 |
+| 90d | 2026-06-22 | 7 | 43 | 5 | 32 | 13 | 129 |
+| last180d | 2026-03-24 | 7 | 58 | 6 | 47 | 16 | 151 |
+| 360d | 2025-09-25 | 9 | 103 | 10 | 98 | 30 | 239 |
+| last720d | 2024-09-30 | 11 | 207 | 13 | 195 | 60 | 380 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ zola 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:54:42Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:05:33Z._
