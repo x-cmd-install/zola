@@ -4,7 +4,7 @@
 
 A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
-[![x-cmd/install — zola Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zola.svg)](https://x-cmd.com/install/zola)
+[![x-cmd/install — zola Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/zola.svg)](https://x-cmd.com/install/zola)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,462 · **Forks**: 1,187 · **Open issues**: 1,761 · **Contributors**: 492
+- **Stars**: 17,464 · **Forks**: 1,187 · **Open issues**: 1,762 · **Contributors**: 492
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1082 · **Open PRs**: 14 · **Closed issues**: 1582 · **Open issues**: 179 · **Commits**: 2614
+- **Releases**: 60 · **Merged PRs**: 1082 · **Open PRs**: 14 · **Closed issues**: 1582 · **Open issues**: 180 · **Commits**: 2614
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 5 | 4 | 11 | 3 | 15 |
-| last60d | 2026-07-24 | 7 | 27 | 6 | 31 | 9 | 100 |
-| 90d | 2026-06-24 | 7 | 42 | 6 | 32 | 12 | 126 |
-| last180d | 2026-03-26 | 7 | 58 | 7 | 48 | 16 | 151 |
-| 360d | 2025-09-27 | 9 | 103 | 11 | 99 | 30 | 238 |
-| last720d | 2024-10-02 | 11 | 207 | 14 | 195 | 60 | 380 |
+| 30d | 2026-08-24 | 2 | 5 | 4 | 11 | 4 | 15 |
+| last60d | 2026-07-25 | 7 | 27 | 6 | 31 | 10 | 100 |
+| 90d | 2026-06-25 | 7 | 42 | 6 | 32 | 13 | 126 |
+| last180d | 2026-03-27 | 7 | 58 | 7 | 48 | 17 | 151 |
+| 360d | 2025-09-28 | 9 | 102 | 11 | 99 | 31 | 238 |
+| last720d | 2024-10-03 | 11 | 207 | 14 | 194 | 60 | 380 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:03:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:18:54Z._
