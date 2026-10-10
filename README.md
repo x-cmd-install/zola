@@ -14,13 +14,13 @@ x install zola
 
 ## Code insight
 
-Total: **22,881** lines of code across **194** files in the top 5 languages.
+Total: **22,887** lines of code across **194** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 20,326 | 882 | 2,571 | 102 |
 | Sass | 647 | 178 | 178 | 17 |
-| Html | 631 | 1 | 68 | 48 |
+| Html | 637 | 1 | 69 | 48 |
 | Toml | 448 | 16 | 80 | 21 |
 | Xml | 217 | 0 | 4 | 6 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.23.6` (2026-09-12)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-10-08
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 17,497 · **Forks**: 1,190 · **Open issues**: 1,773 · **Contributors**: 493
+- **Stars**: 17,500 · **Forks**: 1,190 · **Open issues**: 1,775 · **Contributors**: 494
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1085 · **Open PRs**: 17 · **Closed issues**: 1586 · **Open issues**: 187 · **Commits**: 2617
+- **Releases**: 60 · **Merged PRs**: 1088 · **Open PRs**: 13 · **Closed issues**: 1588 · **Open issues**: 187 · **Commits**: 2619
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 3 | 7 | 8 | 8 | 13 |
-| last60d | 2026-08-09 | 4 | 15 | 9 | 23 | 13 | 56 |
-| 90d | 2026-07-10 | 7 | 36 | 9 | 35 | 18 | 118 |
-| last180d | 2026-04-11 | 7 | 59 | 9 | 47 | 23 | 152 |
-| 360d | 2025-10-13 | 9 | 103 | 14 | 97 | 38 | 240 |
-| last720d | 2024-10-18 | 11 | 208 | 17 | 191 | 65 | 383 |
+| 30d | 2026-09-10 | 2 | 6 | 3 | 10 | 8 | 15 |
+| last60d | 2026-08-11 | 4 | 15 | 4 | 23 | 12 | 58 |
+| 90d | 2026-07-12 | 7 | 39 | 5 | 37 | 16 | 120 |
+| last180d | 2026-04-13 | 7 | 62 | 5 | 49 | 23 | 154 |
+| 360d | 2025-10-15 | 9 | 106 | 10 | 98 | 38 | 242 |
+| last720d | 2024-10-20 | 11 | 211 | 13 | 193 | 65 | 384 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:10:10Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:01:45Z._
