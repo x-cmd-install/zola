@@ -30,7 +30,7 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/13 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,510 · **Forks**: 1,196 · **Open issues**: 1,777 · **Contributors**: 494
+- **Stars**: 17,512 · **Forks**: 1,196 · **Open issues**: 1,777 · **Contributors**: 494
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 6 | 4 | 8 | 9 | 4 |
-| last60d | 2026-08-14 | 3 | 13 | 7 | 20 | 13 | 36 |
-| 90d | 2026-07-15 | 7 | 37 | 8 | 37 | 18 | 110 |
-| last180d | 2026-04-16 | 7 | 62 | 8 | 49 | 25 | 154 |
-| 360d | 2025-10-18 | 9 | 106 | 13 | 97 | 40 | 241 |
-| last720d | 2024-10-23 | 11 | 211 | 16 | 192 | 67 | 384 |
+| 30d | 2026-09-14 | 0 | 5 | 4 | 7 | 9 | 4 |
+| last60d | 2026-08-15 | 3 | 13 | 7 | 20 | 13 | 36 |
+| 90d | 2026-07-16 | 7 | 36 | 8 | 37 | 18 | 110 |
+| last180d | 2026-04-17 | 7 | 62 | 8 | 48 | 25 | 154 |
+| 360d | 2025-10-19 | 9 | 106 | 13 | 97 | 40 | 241 |
+| last720d | 2024-10-24 | 11 | 211 | 16 | 191 | 66 | 384 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:06:53Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:01:43Z._
