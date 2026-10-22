@@ -30,7 +30,7 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,532 · **Forks**: 1,195 · **Open issues**: 1,777 · **Contributors**: 494
+- **Stars**: 17,537 · **Forks**: 1,195 · **Open issues**: 1,778 · **Contributors**: 494
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1089 · **Open PRs**: 15 · **Closed issues**: 1588 · **Open issues**: 189 · **Commits**: 2620
+- **Releases**: 60 · **Merged PRs**: 1089 · **Open PRs**: 15 · **Closed issues**: 1588 · **Open issues**: 190 · **Commits**: 2620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 4 | 3 | 6 | 9 | 4 |
-| last60d | 2026-08-22 | 2 | 10 | 5 | 18 | 12 | 25 |
-| 90d | 2026-07-23 | 7 | 32 | 7 | 37 | 18 | 105 |
-| last180d | 2026-04-24 | 7 | 63 | 7 | 47 | 25 | 153 |
-| 360d | 2025-10-26 | 9 | 106 | 12 | 96 | 39 | 240 |
-| last720d | 2024-10-31 | 11 | 212 | 15 | 188 | 66 | 385 |
+| 30d | 2026-09-22 | 0 | 4 | 3 | 6 | 10 | 4 |
+| last60d | 2026-08-23 | 2 | 10 | 5 | 17 | 13 | 25 |
+| 90d | 2026-07-24 | 7 | 32 | 7 | 37 | 19 | 105 |
+| last180d | 2026-04-25 | 7 | 63 | 7 | 47 | 26 | 153 |
+| 360d | 2025-10-27 | 9 | 106 | 12 | 95 | 40 | 240 |
+| last720d | 2024-11-01 | 11 | 212 | 15 | 187 | 67 | 385 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:54:50Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:51:34Z._
