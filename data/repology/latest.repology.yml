@@ -1,29 +1,15 @@
-- repo: alpine_edge
-  subrepo: community
+- repo: manjaro_stable
+  subrepo: extra
   srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.23.6
-  origversion: 0.23.6-r0
-  status: newest
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: aosc
-  srcname: app-web/zola
   binname: zola
   visiblename: zola
-  version: 0.23.6
-  origversion: null
-  status: newest
-  summary: Static site generator
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - devel
-- repo: arch
+  version: 0.23.4
+  origversion: 0.23.4-1
+  status: outdated
+  summary: An opinionated static site generator
+  licenses:
+    - MIT
+- repo: manjaro_testing
   subrepo: extra
   srcname: zola
   binname: zola
@@ -32,6 +18,43 @@
   origversion: 0.23.6-1
   status: newest
   summary: An opinionated static site generator
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.23.6
+  origversion: 0.23.6-1
+  status: newest
+  summary: An opinionated static site generator
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: zola
+  visiblename: zola
+  version: 0.20.0
+  origversion: null
+  status: outdated
+  summary: Fast static site generator with everything built-in
+  maintainers:
+    - daniel@dodsorf.as
+    - dywedir@gra.red
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: zola
+  visiblename: zola
+  version: 0.21.0
+  origversion: null
+  status: outdated
+  summary: Fast static site generator with everything built-in
+  maintainers:
+    - daniel@dodsorf.as
+    - dywedir@gra.red
+    - mail-maintainer@0x4a6f.dev
   licenses:
     - MIT
 - repo: adelie_current
@@ -251,6 +274,20 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
+- repo: terra_41
+  srcname: zola
+  binname: zola-debuginfo
+  visiblename: zola-debuginfo
+  version: 0.21.0
+  origversion: 0.21.0-1.fc41
+  status: outdated
+  summary: Debug information for package zola
+  maintainers:
+    - arbormoss@woodsprite.dev
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
 - repo: alpine_3_20
   subrepo: community
   srcname: zola
@@ -368,19 +405,6 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.23.6
-  origversion: 0.23.6-r0
-  status: newest
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: zola
@@ -394,6 +418,18 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
+- repo: freebsd
+  srcname: www/zola
+  binname: zola
+  visiblename: www/zola
+  version: 0.23.6
+  origversion: 0.23.6_1
+  status: newest
+  summary: Fast static site generator
+  maintainers:
+    - bofh@freebsd.org
+  categories:
+    - www
 - repo: alpine_3_22
   subrepo: community
   srcname: zola
@@ -527,6 +563,19 @@
 - repo: alpine_edge
   subrepo: community
   srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.23.6
+  origversion: 0.23.6-r0
+  status: newest
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: zola
   binname: zola-fish-completion
   visiblename: zola-fish-completion
   version: 0.23.6
@@ -535,6 +584,42 @@
   summary: Fish completions for zola
   maintainers:
     - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.23.6
+  origversion: 0.23.6-r0
+  status: newest
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: aosc
+  srcname: app-web/zola
+  binname: zola
+  visiblename: zola
+  version: 0.23.6
+  origversion: null
+  status: newest
+  summary: Static site generator
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
+- repo: arch
+  subrepo: extra
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.23.6
+  origversion: 0.23.6-1
+  status: newest
+  summary: An opinionated static site generator
   licenses:
     - MIT
 - repo: aur
@@ -640,18 +725,6 @@
     - fallback-mnt-exherbo@repology
   categories:
     - app-text
-- repo: freebsd
-  srcname: www/zola
-  binname: zola
-  visiblename: www/zola
-  version: 0.23.6
-  origversion: 0.23.6_1
-  status: newest
-  summary: Fast static site generator
-  maintainers:
-    - bofh@freebsd.org
-  categories:
-    - www
 - repo: gentoo_ovl_guru
   srcname: www-apps/zola
   visiblename: www-apps/zola
@@ -756,39 +829,6 @@
     - MIT
   categories:
     - www
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.23.4
-  origversion: 0.23.4-1
-  status: outdated
-  summary: An opinionated static site generator
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.23.6
-  origversion: 0.23.6-1
-  status: newest
-  summary: An opinionated static site generator
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.23.6
-  origversion: 0.23.6-1
-  status: newest
-  summary: An opinionated static site generator
-  licenses:
-    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-zola
   binname: mingw-w64-clang-x86_64-zola
@@ -826,32 +866,6 @@
   srcname: zola
   visiblename: zola
   version: 0.19.2
-  origversion: null
-  status: outdated
-  summary: Fast static site generator with everything built-in
-  maintainers:
-    - daniel@dodsorf.as
-    - dywedir@gra.red
-    - mail-maintainer@0x4a6f.dev
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: zola
-  visiblename: zola
-  version: 0.20.0
-  origversion: null
-  status: outdated
-  summary: Fast static site generator with everything built-in
-  maintainers:
-    - daniel@dodsorf.as
-    - dywedir@gra.red
-    - mail-maintainer@0x4a6f.dev
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: zola
-  visiblename: zola
-  version: 0.21.0
   origversion: null
   status: outdated
   summary: Fast static site generator with everything built-in
@@ -1056,20 +1070,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: terra_41
-  srcname: zola
-  binname: zola-debuginfo
-  visiblename: zola-debuginfo
-  version: 0.21.0
-  origversion: 0.21.0-1.fc41
-  status: outdated
-  summary: Debug information for package zola
-  maintainers:
-    - arbormoss@woodsprite.dev
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
 - repo: terra_41
   srcname: zola
   binname: zola-debuginfo
