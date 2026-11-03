@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,572 · **Forks**: 1,199 · **Open issues**: 1,780 · **Contributors**: 495
+- **Stars**: 17,573 · **Forks**: 1,199 · **Open issues**: 1,782 · **Contributors**: 495
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1093 · **Open PRs**: 12 · **Closed issues**: 1590 · **Open issues**: 190 · **Commits**: 2623
+- **Releases**: 60 · **Merged PRs**: 1093 · **Open PRs**: 14 · **Closed issues**: 1590 · **Open issues**: 192 · **Commits**: 2623
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 5 | 2 | 4 | 5 | 5 |
-| last60d | 2026-09-03 | 2 | 11 | 3 | 14 | 13 | 20 |
-| 90d | 2026-08-04 | 7 | 32 | 4 | 37 | 19 | 78 |
-| last180d | 2026-05-06 | 7 | 60 | 4 | 44 | 27 | 147 |
-| 360d | 2025-11-07 | 9 | 109 | 9 | 95 | 40 | 242 |
-| last720d | 2024-11-12 | 11 | 214 | 12 | 184 | 67 | 387 |
+| 30d | 2026-10-04 | 0 | 5 | 4 | 4 | 7 | 5 |
+| last60d | 2026-09-04 | 2 | 11 | 5 | 14 | 15 | 20 |
+| 90d | 2026-08-05 | 7 | 29 | 6 | 33 | 21 | 78 |
+| last180d | 2026-05-07 | 7 | 60 | 6 | 44 | 29 | 147 |
+| 360d | 2025-11-08 | 9 | 109 | 11 | 95 | 42 | 242 |
+| last720d | 2024-11-13 | 11 | 214 | 14 | 184 | 69 | 386 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **105** distros on [repology.org](https://repology.org/project/zola). **44** are ✅ on the latest upstream release, **58** are ⚠️ on an older version.
+Reported by **105** distros on [repology.org](https://repology.org/project/zola). **43** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:13:46Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:57:58Z._
