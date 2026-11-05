@@ -1,19 +1,3 @@
-- repo: chocolatey
-  binname: zola
-  visiblename: Zola
-  version: 0.23.6
-  origversion: null
-  status: newest
-  summary: A fast static site generator in a single binary with everything built-in
-- repo: chromebrew
-  srcname: zola
-  visiblename: zola
-  version: 0.23.6
-  origversion: null
-  status: newest
-  summary: A fast static site generator
-  licenses:
-    - MIT
 - repo: adelie_current
   subrepo: user
   srcname: zola
@@ -27,17 +11,6 @@
     - samuel@sholland.org
   licenses:
     - BSD-3-Clause AND MIT
-- repo: chimera
-  subrepo: user
-  srcname: zola
-  binname: zola-zshcomp
-  visiblename: zola-zshcomp
-  version: 0.23.6
-  origversion: 0.23.6-r0
-  status: newest
-  summary: Static site generator (zsh completions)
-  licenses:
-    - MIT
 - repo: adelie_current
   subrepo: user
   srcname: zola
@@ -138,326 +111,326 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
-- repo: arch
-  subrepo: extra
+- repo: alpine_3_18
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.17.2
+  origversion: 0.17.2-r0
+  status: outdated
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: zola
+  binname: zola-fish-completion
+  visiblename: zola-fish-completion
+  version: 0.17.2
+  origversion: 0.17.2-r0
+  status: outdated
+  summary: Fish completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.17.2
+  origversion: 0.17.2-r0
+  status: outdated
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.17.2
+  origversion: 0.17.2-r3
+  status: outdated
+  summary: Opionated static site generator
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.17.2
+  origversion: 0.17.2-r3
+  status: outdated
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: zola
+  binname: zola-fish-completion
+  visiblename: zola-fish-completion
+  version: 0.17.2
+  origversion: 0.17.2-r3
+  status: outdated
+  summary: Fish completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.17.2
+  origversion: 0.17.2-r3
+  status: outdated
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.18.0
+  origversion: 0.18.0-r0
+  status: outdated
+  summary: Opionated static site generator
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.18.0
+  origversion: 0.18.0-r0
+  status: outdated
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: zola
+  binname: zola-fish-completion
+  visiblename: zola-fish-completion
+  version: 0.18.0
+  origversion: 0.18.0-r0
+  status: outdated
+  summary: Fish completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.18.0
+  origversion: 0.18.0-r0
+  status: outdated
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.19.2
+  origversion: 0.19.2-r0
+  status: outdated
+  summary: Opionated static site generator
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.19.2
+  origversion: 0.19.2-r0
+  status: outdated
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: zola
+  binname: zola-fish-completion
+  visiblename: zola-fish-completion
+  version: 0.19.2
+  origversion: 0.19.2-r0
+  status: outdated
+  summary: Fish completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.19.2
+  origversion: 0.19.2-r0
+  status: outdated
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.20.0
+  origversion: 0.20.0-r0
+  status: outdated
+  summary: Opionated static site generator
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.20.0
+  origversion: 0.20.0-r0
+  status: outdated
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: zola
+  binname: zola-fish-completion
+  visiblename: zola-fish-completion
+  version: 0.20.0
+  origversion: 0.20.0-r0
+  status: outdated
+  summary: Fish completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.20.0
+  origversion: 0.20.0-r0
+  status: outdated
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Opionated static site generator
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Bash completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: zola
+  binname: zola-fish-completion
+  visiblename: zola-fish-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Fish completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_3
+  srcname: www/zola
+  binname: zola
+  visiblename: www/zola
+  version: 0.22.0
+  origversion: null
+  status: outdated
+  summary: Static website generator
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - www
+- repo: alpine_3_23
+  subrepo: community
+  srcname: zola
+  binname: zola-zsh-completion
+  visiblename: zola-zsh-completion
+  version: 0.21.0
+  origversion: 0.21.0-r0
+  status: outdated
+  summary: Zsh completions for zola
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
   srcname: zola
   binname: zola
   visiblename: zola
   version: 0.23.6
-  origversion: 0.23.6-1
+  origversion: 0.23.6-r0
   status: newest
-  summary: An opinionated static site generator
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.17.2
-  origversion: 0.17.2-r0
-  status: outdated
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: zola
-  binname: zola-fish-completion
-  visiblename: zola-fish-completion
-  version: 0.17.2
-  origversion: 0.17.2-r0
-  status: outdated
-  summary: Fish completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.17.2
-  origversion: 0.17.2-r0
-  status: outdated
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.17.2
-  origversion: 0.17.2-r3
-  status: outdated
-  summary: Opionated static site generator
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.17.2
-  origversion: 0.17.2-r3
-  status: outdated
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: zola
-  binname: zola-fish-completion
-  visiblename: zola-fish-completion
-  version: 0.17.2
-  origversion: 0.17.2-r3
-  status: outdated
-  summary: Fish completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.17.2
-  origversion: 0.17.2-r3
-  status: outdated
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.18.0
-  origversion: 0.18.0-r0
-  status: outdated
-  summary: Opionated static site generator
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.18.0
-  origversion: 0.18.0-r0
-  status: outdated
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: zola
-  binname: zola-fish-completion
-  visiblename: zola-fish-completion
-  version: 0.18.0
-  origversion: 0.18.0-r0
-  status: outdated
-  summary: Fish completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.18.0
-  origversion: 0.18.0-r0
-  status: outdated
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.19.2
-  origversion: 0.19.2-r0
-  status: outdated
-  summary: Opionated static site generator
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.19.2
-  origversion: 0.19.2-r0
-  status: outdated
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: zola
-  binname: zola-fish-completion
-  visiblename: zola-fish-completion
-  version: 0.19.2
-  origversion: 0.19.2-r0
-  status: outdated
-  summary: Fish completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.19.2
-  origversion: 0.19.2-r0
-  status: outdated
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.20.0
-  origversion: 0.20.0-r0
-  status: outdated
-  summary: Opionated static site generator
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.20.0
-  origversion: 0.20.0-r0
-  status: outdated
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: zola
-  binname: zola-fish-completion
-  visiblename: zola-fish-completion
-  version: 0.20.0
-  origversion: 0.20.0-r0
-  status: outdated
-  summary: Fish completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.20.0
-  origversion: 0.20.0-r0
-  status: outdated
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.21.0
-  origversion: 0.21.0-r0
-  status: outdated
-  summary: Opionated static site generator
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.21.0
-  origversion: 0.21.0-r0
-  status: outdated
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: aur
-  srcname: zola-git
-  binname: zola-git
-  visiblename: zola-git
-  version: 0.20.0.r3.38a5a72
-  origversion: 0.20.0.r3.38a5a72-1
-  status: rolling
-  summary: A fast static site generator in a single binary with everything built-in
-  maintainers:
-    - ralphptorres@aur
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: zola
-  binname: zola-fish-completion
-  visiblename: zola-fish-completion
-  version: 0.21.0
-  origversion: 0.21.0-r0
-  status: outdated
-  summary: Fish completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: zola
-  binname: zola-zsh-completion
-  visiblename: zola-zsh-completion
-  version: 0.21.0
-  origversion: 0.21.0-r0
-  status: outdated
-  summary: Zsh completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
+  summary: Static site generator
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -576,6 +549,29 @@
     - fallback-mnt-aosc@repology
   categories:
     - devel
+- repo: arch
+  subrepo: extra
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.23.6
+  origversion: 0.23.6-1
+  status: newest
+  summary: An opinionated static site generator
+  licenses:
+    - MIT
+- repo: aur
+  srcname: zola-git
+  binname: zola-git
+  visiblename: zola-git
+  version: 0.20.0.r3.38a5a72
+  origversion: 0.20.0.r3.38a5a72-1
+  status: rolling
+  summary: A fast static site generator in a single binary with everything built-in
+  maintainers:
+    - ralphptorres@aur
+  licenses:
+    - MIT
 - repo: baulk
   srcname: zola
   binname: zola
@@ -584,17 +580,6 @@
   origversion: null
   status: newest
   summary: A fast static site generator in a single binary with everything built-in.
-- repo: chimera
-  subrepo: user
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.23.6
-  origversion: 0.23.6-r0
-  status: newest
-  summary: Static site generator
-  licenses:
-    - MIT
 - repo: chimera
   subrepo: user
   srcname: zola
@@ -626,6 +611,33 @@
   origversion: 0.23.6-r0
   status: newest
   summary: Static site generator (fish completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zola
+  binname: zola-zshcomp
+  visiblename: zola-zshcomp
+  version: 0.23.6
+  origversion: 0.23.6-r0
+  status: newest
+  summary: Static site generator (zsh completions)
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: zola
+  visiblename: Zola
+  version: 0.23.6
+  origversion: null
+  status: newest
+  summary: A fast static site generator in a single binary with everything built-in
+- repo: chromebrew
+  srcname: zola
+  visiblename: zola
+  version: 0.23.6
+  origversion: null
+  status: newest
+  summary: A fast static site generator
   licenses:
     - MIT
 - repo: exherbo
@@ -665,6 +677,18 @@
     - EUPL-1.2 MIT Apache-2.0 BSD-2 BSD CC0-1.0 CDLA-Permissive-2.0 EUPL-1.2 ISC MIT MPL-2.0 UoI-NCSA Unicode-3.0 ZLIB || ( Apache-2.0-with-LLVM-exceptions Boost-1.0 )
   categories:
     - www-apps
+- repo: pkgsrc_current
+  srcname: www/zola
+  binname: zola
+  visiblename: www/zola
+  version: 0.22.0
+  origversion: null
+  status: outdated
+  summary: Static website generator
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - www
 - repo: gentoo_ovl_guru
   srcname: www-apps/zola
   visiblename: www-apps/zola
@@ -942,30 +966,6 @@
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
-  srcname: www/zola
-  binname: zola
-  visiblename: www/zola
-  version: 0.22.0
-  origversion: null
-  status: outdated
-  summary: Static website generator
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - www
-- repo: pkgsrc_2026_3
-  srcname: www/zola
-  binname: zola
-  visiblename: www/zola
-  version: 0.22.0
-  origversion: null
-  status: outdated
-  summary: Static website generator
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - www
-- repo: pkgsrc_current
   srcname: www/zola
   binname: zola
   visiblename: www/zola
