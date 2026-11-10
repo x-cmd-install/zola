@@ -24,16 +24,6 @@ Total: **22,887** lines of code across **194** files in the top 5 languages.
 | Toml | 448 | 16 | 80 | 21 |
 | Xml | 217 | 0 | 4 | 6 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.1 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/getzola/zola>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,591 · **Forks**: 1,205 · **Open issues**: 1,783 · **Contributors**: 495
+- **Stars**: 17,595 · **Forks**: 1,204 · **Open issues**: 1,783 · **Contributors**: 495
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1094 · **Open PRs**: 14 · **Closed issues**: 1593 · **Open issues**: 190 · **Commits**: 2624
+- **Releases**: 60 · **Merged PRs**: 1094 · **Open PRs**: 15 · **Closed issues**: 1593 · **Open issues**: 190 · **Commits**: 2624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 5 | 3 | 5 | 3 | 4 |
-| last60d | 2026-09-10 | 2 | 11 | 5 | 15 | 12 | 9 |
-| 90d | 2026-08-11 | 4 | 21 | 5 | 28 | 16 | 43 |
-| last180d | 2026-05-13 | 7 | 59 | 6 | 47 | 25 | 145 |
-| 360d | 2025-11-14 | 9 | 110 | 11 | 97 | 39 | 242 |
-| last720d | 2024-11-19 | 11 | 214 | 12 | 185 | 67 | 386 |
+| 30d | 2026-10-11 | 0 | 5 | 3 | 5 | 2 | 4 |
+| last60d | 2026-09-11 | 2 | 11 | 6 | 14 | 12 | 9 |
+| 90d | 2026-08-12 | 3 | 19 | 6 | 26 | 15 | 43 |
+| last180d | 2026-05-14 | 7 | 59 | 7 | 47 | 25 | 145 |
+| 360d | 2025-11-15 | 9 | 110 | 12 | 97 | 39 | 242 |
+| last720d | 2024-11-20 | 11 | 214 | 13 | 185 | 67 | 386 |
 
 ## Release assets
 
@@ -100,4 +90,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:29:54Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:30:28Z._
