@@ -38,7 +38,7 @@ Total: **22,887** lines of code across **194** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 17,610 · **Forks**: 1,211 · **Open issues**: 1,784 · **Contributors**: 495
+- **Stars**: 17,609 · **Forks**: 1,211 · **Open issues**: 1,784 · **Contributors**: 495
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **22,887** lines of code across **194** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 4 | 3 | 5 | 3 | 4 |
-| last60d | 2026-09-16 | 0 | 9 | 5 | 12 | 12 | 9 |
-| 90d | 2026-08-17 | 3 | 17 | 6 | 25 | 16 | 43 |
-| last180d | 2026-05-19 | 7 | 58 | 7 | 46 | 26 | 145 |
-| 360d | 2025-11-20 | 9 | 108 | 12 | 94 | 39 | 242 |
-| last720d | 2024-11-25 | 11 | 214 | 13 | 184 | 67 | 386 |
+| 30d | 2026-10-17 | 0 | 4 | 3 | 5 | 3 | 4 |
+| last60d | 2026-09-17 | 0 | 9 | 5 | 12 | 12 | 8 |
+| 90d | 2026-08-18 | 3 | 17 | 6 | 25 | 16 | 29 |
+| last180d | 2026-05-20 | 7 | 58 | 7 | 46 | 26 | 143 |
+| 360d | 2025-11-21 | 9 | 108 | 12 | 94 | 39 | 238 |
+| last720d | 2024-11-26 | 11 | 214 | 13 | 184 | 67 | 386 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:47:32Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:52:48Z._
