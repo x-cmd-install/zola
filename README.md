@@ -24,6 +24,16 @@ Total: **22,887** lines of code across **194** files in the top 5 languages.
 | Toml | 448 | 16 | 80 | 21 |
 | Xml | 217 | 0 | 4 | 6 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.1 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/getzola/zola>
@@ -33,27 +43,27 @@ Total: **22,887** lines of code across **194** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.23.6` (2026-09-12)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-16
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 17,609 · **Forks**: 1,211 · **Open issues**: 1,784 · **Contributors**: 495
+- **Stars**: 17,610 · **Forks**: 1,214 · **Open issues**: 1,784 · **Contributors**: 495
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 1094 · **Open PRs**: 15 · **Closed issues**: 1593 · **Open issues**: 191 · **Commits**: 2624
+- **Releases**: 60 · **Merged PRs**: 1095 · **Open PRs**: 14 · **Closed issues**: 1593 · **Open issues**: 191 · **Commits**: 2625
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 4 | 3 | 5 | 3 | 4 |
-| last60d | 2026-09-17 | 0 | 9 | 5 | 12 | 12 | 8 |
-| 90d | 2026-08-18 | 3 | 17 | 6 | 25 | 16 | 29 |
-| last180d | 2026-05-20 | 7 | 58 | 7 | 46 | 26 | 143 |
-| 360d | 2025-11-21 | 9 | 108 | 12 | 94 | 39 | 238 |
-| last720d | 2024-11-26 | 11 | 214 | 13 | 184 | 67 | 386 |
+| 30d | 2026-10-18 | 0 | 5 | 2 | 5 | 3 | 5 |
+| last60d | 2026-09-18 | 0 | 10 | 4 | 12 | 12 | 9 |
+| 90d | 2026-08-19 | 3 | 18 | 5 | 25 | 16 | 30 |
+| last180d | 2026-05-21 | 7 | 59 | 6 | 46 | 26 | 144 |
+| 360d | 2025-11-22 | 9 | 109 | 11 | 94 | 39 | 239 |
+| last720d | 2024-11-27 | 11 | 215 | 12 | 183 | 67 | 387 |
 
 ## Release assets
 
@@ -90,4 +100,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:52:48Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:34:08Z._
