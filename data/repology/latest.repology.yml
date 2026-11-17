@@ -1,29 +1,24 @@
-- repo: nix_stable_24_11
-  srcname: zola
-  visiblename: zola
-  version: 0.19.2
-  origversion: null
-  status: outdated
-  summary: Fast static site generator with everything built-in
+- repo: liguros_develop
+  srcname: www-apps/zola
+  visiblename: www-apps/zola
+  version: 0.22.1
+  origversion: 0.22.1-r5
+  status: legacy
+  summary: A fast static site generator with everything built-in
   maintainers:
-    - daniel@dodsorf.as
-    - dywedir@gra.red
-    - mail-maintainer@0x4a6f.dev
+    - zyx@envs.net
   licenses:
-    - MIT
-- repo: nix_stable_25_05
+    - EUPL-1.2 MIT Apache-2.0 BSD-2 BSD CC0-1.0 CDLA-Permissive-2.0 EUPL-1.2 ISC MIT MPL-2.0 UoI-NCSA Unicode-3.0 || ( Apache-2.0-with-LLVM-exceptions Boost-1.0 )
+  categories:
+    - www-apps
+- repo: baulk
   srcname: zola
+  binname: zola
   visiblename: zola
-  version: 0.20.0
+  version: 0.23.6
   origversion: null
-  status: outdated
-  summary: Fast static site generator with everything built-in
-  maintainers:
-    - daniel@dodsorf.as
-    - dywedir@gra.red
-    - mail-maintainer@0x4a6f.dev
-  licenses:
-    - MIT
+  status: newest
+  summary: A fast static site generator in a single binary with everything built-in.
 - repo: adelie_current
   subrepo: user
   srcname: zola
@@ -358,19 +353,6 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: zola
-  binname: zola-bash-completion
-  visiblename: zola-bash-completion
-  version: 0.23.6
-  origversion: 0.23.6-r0
-  status: newest
-  summary: Bash completions for zola
-  maintainers:
-    - lucidiot@brainshit.fr
-  licenses:
-    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: zola
@@ -436,6 +418,17 @@
     - lucidiot@brainshit.fr
   licenses:
     - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zola
+  binname: zola
+  visiblename: zola
+  version: 0.23.6
+  origversion: 0.23.6-r0
+  status: newest
+  summary: Static site generator
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: zola
@@ -510,6 +503,19 @@
   origversion: 0.23.6-r0
   status: newest
   summary: Opionated static site generator
+  maintainers:
+    - lucidiot@brainshit.fr
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: zola
+  binname: zola-bash-completion
+  visiblename: zola-bash-completion
+  version: 0.23.6
+  origversion: 0.23.6-r0
+  status: newest
+  summary: Bash completions for zola
   maintainers:
     - lucidiot@brainshit.fr
   licenses:
@@ -573,25 +579,6 @@
   summary: A fast static site generator in a single binary with everything built-in
   maintainers:
     - ralphptorres@aur
-  licenses:
-    - MIT
-- repo: baulk
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.23.6
-  origversion: null
-  status: newest
-  summary: A fast static site generator in a single binary with everything built-in.
-- repo: chimera
-  subrepo: user
-  srcname: zola
-  binname: zola
-  visiblename: zola
-  version: 0.23.6
-  origversion: 0.23.6-r0
-  status: newest
-  summary: Static site generator
   licenses:
     - MIT
 - repo: chimera
@@ -754,19 +741,6 @@
     - EUPL-1.2 MIT Apache-2.0 BSD-2 BSD CC0-1.0 CDLA-Permissive-2.0 EUPL-1.2 ISC MIT MPL-2.0 UoI-NCSA Unicode-3.0 ZLIB || ( Apache-2.0-with-LLVM-exceptions Boost-1.0 )
   categories:
     - www-apps
-- repo: liguros_develop
-  srcname: www-apps/zola
-  visiblename: www-apps/zola
-  version: 0.22.1
-  origversion: 0.22.1-r5
-  status: legacy
-  summary: A fast static site generator with everything built-in
-  maintainers:
-    - zyx@envs.net
-  licenses:
-    - EUPL-1.2 MIT Apache-2.0 BSD-2 BSD CC0-1.0 CDLA-Permissive-2.0 EUPL-1.2 ISC MIT MPL-2.0 UoI-NCSA Unicode-3.0 || ( Apache-2.0-with-LLVM-exceptions Boost-1.0 )
-  categories:
-    - www-apps
 - repo: macports
   srcname: www/zola
   binname: zola
@@ -842,6 +816,32 @@
   origversion: null
   status: outdated
   summary: A fast static site generator with everything built-in
+  maintainers:
+    - daniel@dodsorf.as
+    - dywedir@gra.red
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: zola
+  visiblename: zola
+  version: 0.19.2
+  origversion: null
+  status: outdated
+  summary: Fast static site generator with everything built-in
+  maintainers:
+    - daniel@dodsorf.as
+    - dywedir@gra.red
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: zola
+  visiblename: zola
+  version: 0.20.0
+  origversion: null
+  status: outdated
+  summary: Fast static site generator with everything built-in
   maintainers:
     - daniel@dodsorf.as
     - dywedir@gra.red
@@ -1297,12 +1297,12 @@
 - repo: void_x86_64
   subrepo: x86_64
   srcname: zola
-  binname: gutenberg
-  visiblename: gutenberg
+  binname: zola
+  visiblename: zola
   version: 0.23.6
   origversion: 0.23.6_1
   status: newest
-  summary: Transition package for Zola
+  summary: Fast opinionated static site generator
   maintainers:
     - void@placeviolette.net
   licenses:
@@ -1310,12 +1310,12 @@
 - repo: void_x86_64
   subrepo: x86_64
   srcname: zola
-  binname: zola
-  visiblename: zola
+  binname: gutenberg
+  visiblename: gutenberg
   version: 0.23.6
   origversion: 0.23.6_1
   status: newest
-  summary: Fast opinionated static site generator
+  summary: Transition package for Zola
   maintainers:
     - void@placeviolette.net
   licenses:
