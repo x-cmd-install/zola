@@ -30,7 +30,7 @@ Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 2/19 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,610 · **Forks**: 1,214 · **Open issues**: 1,784 · **Contributors**: 495
+- **Stars**: 17,615 · **Forks**: 1,219 · **Open issues**: 1,784 · **Contributors**: 495
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 5 | 2 | 5 | 3 | 5 |
-| last60d | 2026-09-18 | 0 | 10 | 4 | 12 | 12 | 9 |
-| 90d | 2026-08-19 | 3 | 18 | 5 | 25 | 16 | 30 |
-| last180d | 2026-05-21 | 7 | 59 | 6 | 46 | 26 | 144 |
-| 360d | 2025-11-22 | 9 | 109 | 11 | 94 | 39 | 239 |
-| last720d | 2024-11-27 | 11 | 215 | 12 | 183 | 67 | 387 |
+| 30d | 2026-10-20 | 0 | 4 | 2 | 5 | 3 | 0 |
+| last60d | 2026-09-20 | 0 | 10 | 4 | 11 | 12 | 0 |
+| 90d | 2026-08-21 | 2 | 15 | 5 | 23 | 15 | 0 |
+| last180d | 2026-05-23 | 7 | 58 | 6 | 46 | 26 | 0 |
+| 360d | 2025-11-24 | 9 | 108 | 11 | 94 | 39 | 0 |
+| last720d | 2024-11-29 | 11 | 215 | 12 | 182 | 67 | 387 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **105** distros on [repology.org](https://repology.org/project/zola). **45** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/zola). **46** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for zola lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:34:08Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:25:13Z._

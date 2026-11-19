@@ -30,7 +30,7 @@ x install zola
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 2/19 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -48,7 +48,7 @@ x install zola
 
 ## 流行度
 
-- **Star**: 17,610 · **Fork**: 1,214 · **开放 issue**: 1,784 · **贡献者**: 495
+- **Star**: 17,615 · **Fork**: 1,219 · **开放 issue**: 1,784 · **贡献者**: 495
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install zola
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 5 | 2 | 5 | 3 | 5 |
-| last60d | 2026-09-18 | 0 | 10 | 4 | 12 | 12 | 9 |
-| 90d | 2026-08-19 | 3 | 18 | 5 | 25 | 16 | 30 |
-| last180d | 2026-05-21 | 7 | 59 | 6 | 46 | 26 | 144 |
-| 360d | 2025-11-22 | 9 | 109 | 11 | 94 | 39 | 239 |
-| last720d | 2024-11-27 | 11 | 215 | 12 | 183 | 67 | 387 |
+| 30d | 2026-10-20 | 0 | 4 | 2 | 5 | 3 | 0 |
+| last60d | 2026-09-20 | 0 | 10 | 4 | 11 | 12 | 0 |
+| 90d | 2026-08-21 | 2 | 15 | 5 | 23 | 15 | 0 |
+| last180d | 2026-05-23 | 7 | 58 | 6 | 46 | 26 | 0 |
+| 360d | 2025-11-24 | 9 | 108 | 11 | 94 | 39 | 0 |
+| last720d | 2024-11-29 | 11 | 215 | 12 | 182 | 67 | 387 |
 
 ## Release 资产
 
@@ -80,7 +80,7 @@ x install zola
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/zola) 上共有 **105** 个发行版报告此项目。**45** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/zola) 上共有 **106** 个发行版报告此项目。**46** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -100,4 +100,4 @@ zola 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:34:09Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:25:13Z._
