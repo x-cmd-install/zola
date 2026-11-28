@@ -48,22 +48,22 @@ x install zola
 
 ## 流行度
 
-- **Star**: 17,624 · **Fork**: 1,254 · **开放 issue**: 1,784 · **贡献者**: 495
+- **Star**: 17,624 · **Fork**: 1,256 · **开放 issue**: 1,784 · **贡献者**: 495
 
 ## 累计统计
 
-- **发布数**: 60 · **已合并 PR**: 1097 · **开放 PR**: 15 · **已关闭 issue**: 1593 · **开放 issue**: 191 · **提交数**: 2626
+- **发布数**: 60 · **已合并 PR**: 1097 · **开放 PR**: 16 · **已关闭 issue**: 1593 · **开放 issue**: 191 · **提交数**: 2626
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 4 | 3 | 3 | 2 | 4 |
-| last60d | 2026-09-28 | 0 | 10 | 5 | 10 | 7 | 9 |
-| 90d | 2026-08-29 | 2 | 17 | 6 | 20 | 15 | 25 |
-| last180d | 2026-05-31 | 7 | 58 | 7 | 45 | 26 | 144 |
-| 360d | 2025-12-02 | 9 | 106 | 12 | 93 | 39 | 238 |
-| last720d | 2024-12-07 | 11 | 213 | 13 | 176 | 67 | 387 |
+| 30d | 2026-10-29 | 0 | 4 | 4 | 3 | 2 | 4 |
+| last60d | 2026-09-29 | 0 | 9 | 6 | 10 | 7 | 9 |
+| 90d | 2026-08-30 | 2 | 17 | 7 | 19 | 15 | 25 |
+| last180d | 2026-06-01 | 7 | 58 | 8 | 45 | 26 | 144 |
+| 360d | 2025-12-03 | 9 | 106 | 13 | 93 | 39 | 238 |
+| last720d | 2024-12-08 | 11 | 213 | 14 | 176 | 67 | 387 |
 
 ## Release 资产
 
@@ -78,6 +78,19 @@ x install zola
 | [zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz) | 15.7 MiB | `native/linux/x64/glibc` |
 | [zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-musl.tar.gz) | 15.6 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/zola) 上共有 **107** 个发行版报告此项目。**47** 个 ✅ 已是最新上游版本，**57** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.23.6` | ✅ latest |
+| Homebrew | `0.23.6` | ✅ latest |
+| Nix unstable | `0.23.6` | ✅ latest |
+| Void | `0.23.6` | ✅ latest |
+| Alpine edge | `0.23.6` | ✅ latest |
+| openSUSE Tumbleweed | `0.23.6` | ✅ latest |
+
 ## 改进这些数据
 
 zola 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `zola` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +100,4 @@ zola 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T08:57:28Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T07:51:15Z._
